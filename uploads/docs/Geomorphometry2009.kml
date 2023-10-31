@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Geomorphometry 2009</name>
+	<open>1</open>
+	<description>http://2009.geomorphometry.org/map_of_events.htm</description>
+	<Style id="Price category: luxurious">
+		<IconStyle>
+			<color>ff004ce6</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_placemark_square">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_square</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_square_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon251">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="&amp;lt;all other values&amp;gt;">
+		<IconStyle>
+			<color>ff00ad68</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="&amp;lt;all other values&amp;gt;_LABELS">
+		<IconStyle>
+			<color>00000000</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_square0">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_placemark_square0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_square0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_square_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon2511">
+		<IconStyle>
+			<color>ff004ce6</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon255">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon2510">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon256">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon2519">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon2515">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_square_highlight0">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Price category: budget_LABELS">
+		<IconStyle>
+			<color>00000000</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon257">
+		<IconStyle>
+			<color>ff004ce6</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon254">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_arrow">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_arrow0">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon253">
+		<IconStyle>
+			<color>ff004ce6</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon2518">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon252">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon258">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon2513">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_arrow0">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_palette-44">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_palette-43">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_palette-45">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_palette-41">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="Price category: budget">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon25100">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="Price category: intermediate">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon2514">
+		<IconStyle>
+			<color>ff004ce6</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_icon2520">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon2517">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_arrow0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_palette-42">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_palette-46">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_palette-4">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0055ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_placemark_square1">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_arrow">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_square_highlight">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_placemark_square_highlight1">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="Price category: intermediate_LABELS">
+		<IconStyle>
+			<color>00000000</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_palette-47">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="Price category: luxurious_LABELS">
+		<IconStyle>
+			<color>00000000</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff5500</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_palette-40">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff5500</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_icon259">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon2512">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon25">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon250">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0055ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_placemark_square">
+		<IconStyle>
+			<color>ffff5500</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_arrow">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon2516">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_placemark_square1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_square1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_square_highlight1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Accomodations grouped by price</name>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Folder>
+			<name>Price category: budget</name>
+			<Placemark>
+				<name>City Backpacker</name>
+				<description><![CDATA[Address:<br />Niederdorfstrasse 5<br />8001 Zurich<br /><br /><i>Price category: budget</i><br /><b><a href="http://www.city-backpacker.ch/index.php">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon2520</styleUrl>
+				<Point>
+					<coordinates>8.54356500020506,47.3728919999819,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>EasyHotel</name>
+				<description><![CDATA[Address:<br />Zwinglistrasse 14<br />8004 Zurich<br /><br /><i>Price category: budget</i><br /><b><a href="http://www.easyhotel.com/hotels/gb/hotel_search_zurich.htm">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon2510</styleUrl>
+				<Point>
+					<coordinates>8.529028257432753,47.37829342860324,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Etap Hotel Zurich City West</name>
+				<description><![CDATA[Address:<br />Technoparkstrasse 2<br />8005 Zurich<br /><br /><i>Price category: budget</i><br /><b><a href="http://www.etaphotel.com/gb/hotel-3184-etap-hotel-zurich-city/index.shtml">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon252</styleUrl>
+				<Point>
+					<coordinates>8.516170560664589,47.3889868471421,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Ibis Zurich City West</name>
+				<description><![CDATA[Address:<br />Schiffbaustrasse 11<br />8005 Zurich<br /><br /><i>Number of rooms: 155</i><br /><i>Price category: budget</i><br /><b><a href="http://www.ibishotel.com/gb/hotel-2942-ibis-zurich-city-west/index.shtml">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon250</styleUrl>
+				<Point>
+					<coordinates>8.51717194773747,47.3890300077722,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Ibis Zurich Messe Airport</name>
+				<description><![CDATA[Address:<br />Heidi Abel-Weg 5<br />8050 Zurich<br /><br /><i>Number of rooms: 178</i><br /><i>Price category: budget</i><br /><b><a href="http://www.ibishotel.com/gb/hotel-2980-ibis-zurich-messe-airport/index.shtml">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon25</styleUrl>
+				<Point>
+					<coordinates>8.55856479173011,47.4160183403655,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Krone Limmatquai</name>
+				<description><![CDATA[Address:<br />Limmatquai 88<br />8001 Zurich<br /><br /><i>Price category: budget</i><br /><b><a href="http://www.hotel-krone-limmatquai.ch/e/index.html">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon258</styleUrl>
+				<Point>
+					<coordinates>8.542888299140699,47.37386166579329,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Martahaus</name>
+				<description><![CDATA[Address:<br />Zaehringerstrasse 36<br />8001 Zurich<br /><br /><i>Price category: budget</i><br /><b><a href="http://www.martahaus.ch">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon254</styleUrl>
+				<Point>
+					<coordinates>8.54471400001562,47.3759569999864,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Sternen-Oerlikon</name>
+				<description><![CDATA[Address:<br />Schaffhauserstrasse 335<br />8050 Zurich<br /><br /><i>Number of rooms: 51</i><br /><i>Price category: budget</i><br /><b><a href="http://www.sternenoerlikon.ch/e/index.cfm">Website</a></b><br />
+<br />
+<i><b>This hotel offers special rates for university-related stays</b></i><br />]]></description>
+				<styleUrl>#sn_icon2518</styleUrl>
+				<Point>
+					<coordinates>8.5464030745255,47.40836570804101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ZicZac Rock Hotel</name>
+				<description><![CDATA[Address:<br />Marktgasse 17<br />8001 Zurich<br /><br /><i>Price category: budget</i><br /><b><a href="http://ziczac.ch/ziczacrockhotel/?kramer_id=9&page=ziczacrockhotel">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon255</styleUrl>
+				<Point>
+					<coordinates>8.54367918633001,47.3720576847676,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zurich Youth Hostel</name>
+				<description><![CDATA[Address:<br />Mutschellenstrasse 114<br />8038 Zurich<br /><br /><i>Price category: budget</i><br /><b><a href="http://www.youthhostel.ch/hosteldetails.html?&L=1&user_hostels_pi1[bez]=ZRH&cHash=0560c32771">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon2515</styleUrl>
+				<Point>
+					<coordinates>8.52780469623303,47.3480434337608,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Price category: intermediate</name>
+			<Placemark>
+				<name>Best Western Hotel Montana</name>
+				<description><![CDATA[Address:<br />Konradstrasse 39<br />8005 Zurich<br /><br /><i>Price category: intermediate</i><br /><b><a href="http://book.bestwestern.com/bestwestern/priceAvail.do?propertyCode=94164&disablenav=true&language=en_US&Affiliate=true&sob=a38">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon251</styleUrl>
+				<Point>
+					<coordinates>8.53520394856764,47.38083139290549,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Best Western Hotel Zuercherhof</name>
+				<description><![CDATA[Address:<br />Zaehringerstrasse 21<br />8021 Zurich<br /><br /><i>Number of rooms: 36</i><br /><i>Price category: intermediate</i><br /><b><a href="http://www.hotelzuercherhof.ch/index_en.htm">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon25100</styleUrl>
+				<Point>
+					<coordinates>8.544443999968021,47.3750330001699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Comfort Inn Royal</name>
+				<description><![CDATA[Address:<br />Leonhardstrasse 6<br />8001 Zurich<br /><br /><i>Number of rooms: 70</i><br /><i>Price category: intermediate</i><br /><b><a href="http://www.comfortinn.ch/index_e.htm">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon256</styleUrl>
+				<Point>
+					<coordinates>8.544785994493219,47.3789187385482,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Bristol</name>
+				<description><![CDATA[Address:<br />Stampfenbachstrasse 34<br />8006 Zurich<br /><br /><i>Number of rooms: 54</i><br /><i>Price category: intermediate</i><br /><b><a href="http://www.hotelbristol.ch/home_e.html">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon2516</styleUrl>
+				<Point>
+					<coordinates>8.54296155873557,47.3796033542245,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Coronado</name>
+				<description><![CDATA[Address:<br />Schaffhauserstrasse 137<br />8057 Zurich<br /><br /><i>Number of rooms: 40</i><br /><i>Price category: intermediate</i><br /><b><a href="http://www.hotel-coronado.ch">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon2512</styleUrl>
+				<Point>
+					<coordinates>8.54093051301942,47.3973265998602,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Leoneck (Crazy Cow)</name>
+				<description><![CDATA[Address:<br />Leonhardstrasse 1<br />8001 Zurich<br /><br /><i>Number of rooms: 78</i><br /><i>Price category: intermediate</i><br /><b><a href="http://www.leoneck.ch/en">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon2513</styleUrl>
+				<Point>
+					<coordinates>8.545107107434999,47.3790670700743,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Limmathof</name>
+				<description><![CDATA[Address:<br />Limmatquai 142<br />8001 Zurich<br /><br /><i>Price category: intermediate</i><br /><b><a href="http://www.limmathof.com">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon259</styleUrl>
+				<Point>
+					<coordinates>8.544130745006539,47.3764148924927,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Rex</name>
+				<description><![CDATA[Address:<br />Weinbergstrasse 92<br />8006 Zurich<br /><br /><i>Number of rooms: 41</i><br /><i>Price category: intermediate</i><br /><b><a href="http://www.zuerich-hotels.ch/html/index.php?id=21&no_cache=1&L=1">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon2519</styleUrl>
+				<Point>
+					<coordinates>8.54300124734921,47.3848302682684,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>X-TRA</name>
+				<description><![CDATA[Address:<br />Limmatstrasse 118<br />8005 Zurich<br /><br /><i>Price category: intermediate</i><br /><b><a href="http://www.x-tra.ch/mainscreen.php?lang=en">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon2517</styleUrl>
+				<Point>
+					<coordinates>8.53266236390404,47.384023651297,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Price category: luxurious</name>
+			<Placemark>
+				<name>Hotel Continental</name>
+				<description><![CDATA[Address:<br />Stampfenbachstrasse 60<br />8006 Zurich<br /><br /><i>Number of rooms: 138</i><br /><i>Price category: luxurious</i><br /><b><a href="http://www.accorhotels.com/gb/hotel-1196-hotel-continental-zurich-former-sofitel-zurich/index.shtml">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon2514</styleUrl>
+				<Point>
+					<coordinates>8.54249573660695,47.38103878558639,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Leonardo Hotel Rigihof</name>
+				<description><![CDATA[Address:<br />Universitaetstrasse 101<br />8033 Zurich<br /><br /><i>Number of rooms: 67</i><br /><i>Price category: luxurious</i><br /><b><a href="http://www.leonardo-hotels.com">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon253</styleUrl>
+				<Point>
+					<coordinates>8.548021872944331,47.3839375906511,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Renaissance Zurich Hotel</name>
+				<description><![CDATA[Address:<br />Thurgauerstrasse 101<br />8152 Zurich<br /><br /><i>Number of rooms: 204</i><br /><i>Price category: luxurious</i><br /><b><a href="http://www.marriott.com/hotels/travel/zrhrn-renaissance-zurich-hotel">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon2511</styleUrl>
+				<Point>
+					<coordinates>8.55530765133129,47.4199001470415,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zurich Marriott</name>
+				<description><![CDATA[Address:<br />Neumuehlequai 42<br />8001 Zurich<br /><br /><i>Number of rooms: 271</i><br /><i>Price category: luxurious</i><br /><b><a href="http://www.marriott.com/hotels/travel/zrhdt-zurich-marriott-hotel">Website</a></b><br />]]></description>
+				<styleUrl>#sn_icon257</styleUrl>
+				<Point>
+					<coordinates>8.540577072602281,47.3825960716537,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>Conference Venue</name>
+		<Folder>
+			<name>Indoor routes</name>
+			<open>1</open>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Placemark>
+				<name>Route</name>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+8.548043643690363,47.39728949991036,0 8.549190890440073,47.39697722414878,0 8.549243426022386,47.39697626759617,0 8.549286954111508,47.39698661057561,0 8.549330294325742,47.39701420173072,0 8.549489746171389,47.39726039923999,0 8.549642922049003,47.39752788448657,0 8.549743830172858,47.39771131980247,0 8.549766181559974,47.39772194245884,0 8.549791262522049,47.39772368155628,0 8.549996759216512,47.39766837087058,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Route</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+8.549997214405479,47.39766746517946,0 8.550286648768861,47.39759209147864,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Route</name>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+8.549995599593146,47.39766692623601,0 8.550103078231643,47.3978511173277,0 8.550112028864902,47.39785717185473,0 8.550212711486822,47.39783202040544,0 </coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Outdoor routes</name>
+			<open>1</open>
+			<Style>
+				<ListStyle>
+					<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Placemark>
+				<name>Route</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+8.547728912452413,47.39738790594375,0 8.547706460977508,47.39741955728195,0 8.547672765293868,47.39745557992328,0 8.547630834227434,47.39749782368181,0 8.54758039725111,47.39753191927228,0 8.547222737844308,47.39766194028512,0 8.547021062810615,47.39772611113907,0 8.546927283062601,47.39774836785185,0 8.546569111491678,47.39783481569483,0 8.546262405257281,47.39791580148975,0 8.54615093082846,47.39793173494137,0 8.545989039670872,47.39795279342496,0 8.545834408498223,47.3979745297134,0 8.545717170236884,47.39799124518321,0 8.545616171601111,47.39800933458532,0 8.545542240159122,47.39802584503105,0 8.545351012698887,47.39806914035683,0 8.545185159283122,47.39812513645656,0 8.545113454956521,47.39814330637223,0 8.545036695291884,47.39815419169162,0 8.544931028666298,47.3981604096884,0 8.544901681432293,47.39816314688952,0 8.544825222941938,47.39818843454685,0 8.544799202588678,47.39818983464359,0 8.544690074131836,47.39818367803463,0 8.544644609683104,47.39818437771174,0 8.544580601285432,47.39818720373771,0 8.54451282611079,47.39817659915974,0 8.544463240388012,47.39815827918419,0 8.544422721428106,47.39813015169386,0 8.544293801302075,47.39798955868976,0 8.54426020164307,47.39795791139324,0 8.544217958208947,47.39794222985947,0 8.54417749071132,47.39794153597412,0 8.544138920070921,47.39795044564687,0 8.544034358478527,47.39801966679261,0 8.544009348802661,47.39803069397929,0 8.543936728791991,47.39804450520271,0 8.543860351299443,47.39805262282251,0 8.543611661865867,47.39803867602531,0 8.543357292714447,47.39802448843781,0 8.543113795062538,47.39801518541825,0 8.542836327238376,47.39800952142628,0 8.542709576996913,47.39799466033585,0 8.542622831297138,47.39796995655735,0 8.542559442377012,47.39795084271988,0 8.542481057164409,47.39792042887405,0 8.542401948954009,47.39788852324171,0 8.542298772114933,47.39785035767959,0 8.54215767417125,47.39781365483829,0 8.542073034026032,47.39779442088934,0 8.541999379392379,47.39778814111784,0 8.541936919849292,47.39779465114797,0 </coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Route</name>
+				<styleUrl>#msn_ylw-pushpin5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+8.548034243504688,47.39728837349934,0 8.547958481581446,47.3973083646788,0 8.547967233230551,47.3973262278366,0 8.547731493956306,47.39738764594596,0 8.547705277136032,47.39738976357733,0 8.547677553194603,47.39738397682635,0 8.547588884471068,47.39735862643993,0 8.547515790028186,47.39736570359972,0 8.547424611275176,47.39738565550556,0 8.547124847267398,47.39746518885438,0 8.546996165792692,47.39749851645001,0 8.54698205477203,47.3974915702983,0 8.54692562315806,47.39739599632949,0 8.546829506496664,47.39722496623541,0 8.546803967562155,47.39720765806521,0 8.546768148228935,47.39718860466509,0 8.546702744994022,47.39715908828504,0 8.546657821336524,47.39713649105303,0 8.546610359868524,47.39710434422243,0 8.546587226857611,47.3970878086066,0 8.54637231352298,47.39687996608922,0 8.546179389083747,47.39670353664966,0 8.54607408872657,47.39658664824027,0 8.546030703188194,47.39651761562477,0 8.545988498281076,47.39646152352449,0 8.545878805320228,47.39634860735599,0 8.545857126263613,47.39634258014375,0 8.545833588644243,47.39634421127337,0 8.545455776935043,47.39639530989326,0 8.545204617120106,47.39642787118348,0 8.545183905837476,47.39642530951075,0 8.545165806513097,47.39641494941693,0 8.545106979200341,47.39621877371008,0 8.545096162938165,47.396201640477,0 8.545069455911374,47.39618629782433,0 8.54503867243541,47.39618618177728,0 8.544818299691784,47.39622740119721,0 </coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>Mensa and caféteria</name>
+			<description><![CDATA[The main mensa and caféteria are located in building Y21.<br />
+<br />
+<a href="http://www.zfv.ch/bhb/menuadmin/displaymenu.aspx?id=51">Menu in mensa</a>
+<br />]]></description>
+			<LookAt>
+				<longitude>8.548971495178748</longitude>
+				<latitude>47.3972609248961</latitude>
+				<altitude>0</altitude>
+				<range>192.1604758050467</range>
+				<tilt>0</tilt>
+				<heading>-0.01075237562988084</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_square1</styleUrl>
+			<Point>
+				<coordinates>8.548222222222222,47.39712222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16G Foyer</name>
+			<description>The breaks and the apéro will take place in the Y16G Foyer.</description>
+			<LookAt>
+				<longitude>8.54995284083296</longitude>
+				<latitude>47.39762776768171</latitude>
+				<altitude>0</altitude>
+				<range>88.02017719518605</range>
+				<tilt>0</tilt>
+				<heading>-0.01104174646961618</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_square0</styleUrl>
+			<Point>
+				<coordinates>8.550286648768861,47.39759209147864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lecture theatre Y35F32</name>
+			<description>The lecture theatre during Geomorphometry 2009 is Y35F32.</description>
+			<LookAt>
+				<longitude>8.549999955904241</longitude>
+				<latitude>47.39771748950796</latitude>
+				<altitude>0</altitude>
+				<range>192.8682101665367</range>
+				<tilt>0</tilt>
+				<heading>-0.009995361516408459</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_square</styleUrl>
+			<Point>
+				<coordinates>8.550216952638394,47.3978299612367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Conference venue: University of Zurich, Irchel Campus</name>
+			<description><![CDATA[University of Zurich<br />
+Irchel Campus<br />
+Winterthurerstrasse 190<br />
+8057 Zurich<br />
+<br /><br />
+<b><a href="http://www.geo.uzh.ch/en">Department of Geography</a></b><br />
+<b><a href="http://www.uzh.ch/index_en.html">University of Zurich</a></b><br />
+<b><a href="http://www.plaene.uzh.ch/lageplaene/irchel.html">Ichel Campus</a></b><br />]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+8.551026953127845,47.39884312262537,0 8.549324119401661,47.39914039379601,0 8.547124725412729,47.39806597228859,0 8.546558021957509,47.39698365071006,0 8.547413457031297,47.39594542992136,0 8.548739165885948,47.39560866138284,0 8.550471251466306,47.3962032776987,0 8.551260707597621,47.39757068869855,0 8.551026953127845,47.39884312262537,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
