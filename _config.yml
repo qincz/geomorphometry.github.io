@@ -5,8 +5,8 @@ tagline: Geomorphometry.org
 email: your-email@domain.com
 description: >
   Geomorphometry.org website
-baseurl: "/isg_test2"
-url: "http://carlosgrohmann.com"
+baseurl: ""
+url: "https://geomorphometry.github.io"
 permalink: pretty
 favicon: favicon.png
 #gh_sponsor: chrisrhymes
