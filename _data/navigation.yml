@@ -1,0 +1,76 @@
+- name: About the ISG
+  link: /#
+  dropdown:
+    - name: About the ISG
+      link: /about/
+    - name: Membership
+      link: /membership/
+    - name: Constitution and Bylaws
+      link: /constitution-bylaws/
+    - name: Diversity and Inclusion
+      link: /diversity-and-inclusion/
+    - name: Social Media
+      link: /social-media/
+    - name: ISG Council
+      link: /isg-council/
+    - name: ISG Scientific Committee
+      link: /scientific-committee/
+    - name: Contact Us
+      link: /contact/
+- name: ISG Events
+  link: /#
+  dropdown:
+    - name: ISG Coffee Talks
+      link: /coffee_talks/
+    - name: Geomorphometry 2025 - Perugia, Italy
+      link: /2025/
+    - name: Geomorphometry 2023 - Iași, Romania
+      link: /2023/
+    - name: Geomorphometry 2021 - Perugia, Italy
+      link: /2021/
+    - name: Geomorphometry 2018 - Boulder, USA
+      link: /2018/
+    - name: Geomorphometry 2015 - Poznań, Poland
+      link: /2015/
+    - name: Geomorphometry 2013 - Naning, China
+      link: /2013/
+    - name: Geomorphometry 2011 - Redlands, USA
+      link: /2011/
+    - name: Geomorphometry 2009 - Zürich, Switzerland
+      link: /2009/
+    - name: Geomorphometry Sessions
+      link: /sessions/
+- name: Galleries
+  link: /#
+  dropdown:
+    - name: Geomorphometry 2023 - Iași, Romania
+      link: /gallery-2023/
+    - name: Geomorphometry 2021 - Perugia, Italy
+      link: /gallery-2021/
+    - name: Geomorphometry 2018 - Boulder, USA
+      link: /gallery-2018/
+    - name: Geomorphometry 2015 - Poznań, Poland
+      link: /gallery-2015/
+    - name: Geomorphometry 2013 - Naning, China
+      link: /gallery-2013/
+    - name: Geomorphometry 2011 - Redlands, USA
+      link: /gallery-2011/
+    - name: Geomorphometry 2009 - Zürich, Switzerland
+      link: /gallery-2009/
+    - name: Plasencia 2008
+      link: /gallery-plasencia/
+    - name: TADTM 2006
+      link: /gallery-2006/
+- name: Awards
+  link: /awards/
+- name: Code/Data
+  link: /code_data/
+- name: Blog
+  link: /#
+  dropdown:
+    - name: Posts
+      link: /blog/
+    - name: Archive
+      link: /archive/
+    - name: Tags
+      link: /tags/
