@@ -60,7 +60,7 @@ show_sidebar: false
 |10:00-17:00 | **Session 3B: Posters**|
 |10:00-17:00 | Zhang Jin. <br> [Slope Ranking and geohazards correlation analysis for Combined Open-Underground Mining area](https://peerj.com/preprints/27070)|
 |10:00-17:00 | Xiaoli Huang and Liyang Xiong. <br> Space-for-time substitution and the evolution of gully system in a small watershed of the Chinese Loess Plateau|
-|10:00-17:00 | Jiaming Na and Guoan Tang. <br> Simulation on the Evolution of Loess Gullies and Landforms Based on Archaeological Remains Information|
+|10:00-17:00 | Jiaming Na and Guoan Tang. <br> [Simulation on the Evolution of Loess Gullies and Landforms Based on Archaeological Remains Information]({{site.baseurl}}/uploads/pdf/pdf2018/Na_Tang_Geomorphometry_2018_paper_18.pdf)|
 |10:00-17:00 | Jilong Li, Guoan Tang, Fayuan Li and Jianjun Cao. <br> [Delimitation of the transition zone between active and inactive gully erosion in the Chinese Loess Plateau](https://peerj.com/preprints/27139)|
 |11:40-12:40 | Lunch|
 |12:40-13:30 | **Session 4: Highlight Paper**|
